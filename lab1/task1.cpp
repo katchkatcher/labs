@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-	cout << "Hello world";
-	cout << "I have an autism";
+	int t,a,x1,x2,x3;
+	cin >> t;
+
 	return 0;
 }
