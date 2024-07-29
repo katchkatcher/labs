@@ -3,4 +3,5 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
-labs.sln
+/labs.sln
+/.gitignore.txt
