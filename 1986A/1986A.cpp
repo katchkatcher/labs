@@ -1,3 +1,4 @@
+//Задача про ось Х
 #include <iostream>
 #include <cmath>
 

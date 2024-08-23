@@ -1,3 +1,4 @@
+///Конченая задача букет цветов
 #include <iostream>
 #include <cmath>
 #include <locale.h>

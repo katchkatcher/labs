@@ -1,3 +1,4 @@
+//Задача про проверку пароля
 #include <iostream>
 #include <cstring>
 using namespace std;
